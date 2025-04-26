@@ -1,5 +1,5 @@
-✋ SignConnect – AI-Powered Hand Gesture Recognition
-SignConnect is an AI-based hand gesture and sign language recognition system aimed at reducing the communication barrier between individuals who are unable to speak and the general public. This project also lays the foundation for gesture-controlled personal systems in the future.
+✋ AI-Powered Hand Gesture Recognition
+AI-based hand gesture and sign language recognition system aimed at reducing the communication barrier between individuals who are unable to speak and the general public. This project also lays the foundation for gesture-controlled personal systems in the future.
 
 📌 Project Motivation
 With over 430 million people worldwide affected by hearing loss, there's a dire need for accessible, real-time tools that can interpret sign language. This system aims to enable inclusive communication through AI and computer vision, especially in education, healthcare, and public spaces.
